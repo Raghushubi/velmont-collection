@@ -106,12 +106,12 @@ Remember: Every boundary you set is a love letter to your future self.`;
   };
 
   const artworks = [
-  { id: 1, title: "Midnight Serenade", artist: "Helena Ashworth", year: 1887, image: "/midnight-serenade.jpg" },
-  { id: 2, title: "The Velmont Rose", artist: "Charles Pemberton", year: 1923, image: "/the-velmont-rose.jpg" },
-  { id: 3, title: "Golden Reverie", artist: "Isabella Fairfax", year: 1901, image: "/golden-reverie.jpg" },
-  { id: 4, title: "Autumn's Whisper", artist: "Edmund Blackwood", year: 1889, image: "/autumns-whisper.jpg" },
-  { id: 5, title: "The Last Waltz", artist: "Victoria Sterling", year: 1912, image: "/the-last-waltz.jpg" },
-  { id: 6, title: "Crimson Dawn", artist: "Alexander Thornfield", year: 1895, image: "/crimson-dawn.jpg" }
+  { id: 1, title: "Midnight Serenade", artist: "Helena Ashworth", year: 1887, image: "/images/midnight-serenade.jpg" },
+  { id: 2, title: "The Velmont Rose", artist: "Charles Pemberton", year: 1923, image: "/images/the-velmont-rose.jpg" },
+  { id: 3, title: "Golden Reverie", artist: "Isabella Fairfax", year: 1901, image: "/images/golden-reverie.jpg" },
+  { id: 4, title: "Autumn's Whisper", artist: "Edmund Blackwood", year: 1889, image: "/images/autumns-whisper.jpg" },
+  { id: 5, title: "The Last Waltz", artist: "Victoria Sterling", year: 1912, image: "/images/the-last-waltz.jpg" },
+  { id: 6, title: "Crimson Dawn", artist: "Alexander Thornfield", year: 1895, image: "/images/crimson-dawn.jpg" }
 ];
 
   const buttons = [
