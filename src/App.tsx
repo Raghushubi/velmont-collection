@@ -164,7 +164,7 @@ Remember: Every boundary you set is a love letter to your future self.`;
 >
   <div className="bg-gradient-to-r from-amber-900/30 to-red-900/30 backdrop-blur-sm px-4 py-2 rounded-lg border border-amber-600/30 hover:from-amber-800/40 hover:to-red-800/40">
     <img 
-      src="./boltlogo.png" 
+      src="/boltlogo.png" 
       alt="Bolt Logo" 
       className="h-8 md:h-10 lg:h-12 w-auto" 
     />
